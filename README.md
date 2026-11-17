@@ -257,10 +257,11 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </html>
 ~~~
 
-
 ## OUTPUT:
-![alt text](<../Screenshot 2026-11-03 175753.png>)
-![alt text](<../Screenshot 2026-11-03 175710.png>)
+![alt text](<Screenshot 2026-11-03 182003.png>)
+![alt text](<Screenshot 2026-11-03 182022.png>)
+
+
 
 
 ## RESULT:
